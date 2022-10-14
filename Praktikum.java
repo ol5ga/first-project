@@ -1,1 +1,3 @@
-public class Practicum{}
+public class Practicum{
+	public static void{}
+}
